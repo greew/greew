@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+This is where I play around with various projects.
+
+As it is currently October, I've joined in Hacktoberfest and hope to contribute different PRs.
+
+[![@greew's Holopin board](https://holopin.io/api/user/board?user=greew)](https://holopin.io/@greew)
+
+If you need to get in touch with me, you can see my contact details on my Github profile.
+
+
 
 <!--
 **greew/greew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
